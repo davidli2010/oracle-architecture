@@ -12,3 +12,4 @@ ATTENTION: This document is only for self-learning, DO NOT USE for any commercia
 6. [concurrency and mvcc](06-concurrency_and_mvcc.md)
 7. [transaction](07-transaction.md)
 8. [redo and undo](08-redo_and_undo.md)
+9. [tables](09-tables.md)
