@@ -120,4 +120,12 @@ Oracle的临时表是“静态”定义的。在数据库中只需要创建一�
 
 ## 对象表
 
-对象表（object table）是一种基于Oracle类型（TYPE）的表，其定义不是基于列来创建的，其定义不是基于列来创建的。
+对象表（object table）是一种基于Oracle类型（TYPE）的表，其定义不是基于列来创建的。一般的表其CREATE TABLE语句类似这样：
+```
+create table t(x int, y date, z varchar2(25));
+```
+而创建对象表则稍有不同：
+```
+create table t of Some_Type;
+```
+表T的属性（列）是由SOME_TYPE定义的。
