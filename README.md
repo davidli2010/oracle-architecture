@@ -13,3 +13,4 @@ ATTENTION: This document is only for self-learning, DO NOT USE for any commercia
 7. [transaction](07-transaction.md)
 8. [redo and undo](08-redo_and_undo.md)
 9. [tables](09-tables.md)
+10. [indices](10-indices.md)
