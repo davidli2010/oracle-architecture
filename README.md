@@ -16,3 +16,4 @@ ATTENTION: This document is only for self-learning, DO NOT USE for any commercia
 10. [indices](10-indices.md)
 11. [data types](11-data_types.md)
 12. [partitioning](12-partitioning.md)
+13. [parallel execution](13-parallel_execution.md)
